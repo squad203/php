@@ -17,6 +17,7 @@ echo "I have a" . $colore . "dog named" . $dog_name . "and her favorite food is"
 $langusge = "php";
 echo "\n".$langusge;
 
+echo "Variable without concetination $colore And we dont need to put dot $dog_name and her favorite food is $favorite_food";
 
 
 
