@@ -14,5 +14,6 @@ $colore = "brown";
 
 echo "I have a" . $colore . "dog named" . $dog_name . "and her favorite food is" . $favorite_food . ".";
 
-
+$langusge = "php";
+echo "\n".$langusge;
 ?>
