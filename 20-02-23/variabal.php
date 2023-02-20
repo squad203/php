@@ -16,11 +16,18 @@
 // $langusge = "php";
 // echo "\n".$langusge;
 
-$dog_name = "Tadpole";
-$favorite_food = "salmom";
-$colore = "brown";
+// $dog_name = "Tadpole";
+// $favorite_food = "salmom";
+// $colore = "brown";
 
-echo "I have a . ${colore}ish dog named . $dog_name . and her favorite food is . ${favorite_food} .";
+// echo "I have a . ${colore}ish dog named . $dog_name . and her favorite food is . ${favorite_food} .";
 
 
+$noun = "name";
+$adjection = "silly";
+$varb = "name Id";
+
+echo "the word is most b''ellowd $noun was vary $adjection and loved to $varb every single dayd.";
+
+echo "\nI have always been observes whith  ${noun}.s I'm ${adjection}ish I'm always ${varb}ing ";
 ?>
