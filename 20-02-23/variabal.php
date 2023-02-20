@@ -20,7 +20,5 @@ echo "\n".$langusge;
 
 
 
-'ljkasdalkjn'lzsknd'ihsAdf'lihksadfdf'lkjsfd;l;lasd;lkhasadf;lk;skdjkjfha;ksdkjfha;SDK;LJFHA;LKKSDJFHLAKDSDHFLKASSDJFHALKSDJFFHLAKSSDJFFHLKASDJHFALSKSDJFFHHALSKDSJFHASLKSDJFHALKSDJFHALKSJDFHASDF;LKHJASFDFADSLKJKASFDFDS;KASFDLKJHSDLKJASDFLKJKHASFDLKJKFASDFSDLKJASDFLKJKHSFDSLKJHLKDFLKJHASDDSF;LKJK;KHKASDF';A;sdkjfh;askkjdhfs;kasdkjjfh;asdjkfhlklakjdjjdalsdjsddf;l;klj;lihewf;ou;hwfere;lkkjs sdv v  vv  v    ;klhihAASKJF;ZKDCKV J NZXCJCJ V VNZXC   SD;OIOWEFROIIEURAWEDN            ;K;asddFFASDOUFUHHV;zsdjVHVLSDVD;K;JXC     AS;DASKKJF;ieduefhy]08y'liwe'oioergtwt
-4p[oj0qwe
-poj'oid'looijsfdfsda'pojpasddsf'poijpsd'poijpsadf'<poiuasfdpouiasfdf ouiswfd[ouisfds;oihsfdoiufsdoiuopippodidd]=""></poiuasfdpouiasfdf>
+
 ?>
