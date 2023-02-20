@@ -16,8 +16,11 @@ echo "I have a" . $colore . "dog named" . $dog_name . "and her favorite food is"
 $langusge = "php";
 echo "\n".$langusge;
 
-$toy = "frisbee";
-echo "Alex likes playing with $toys";
+$dog_name = "Tadpole";
+$favorite_food = "salmom";
+$colore = "brown";
+
+echo "I have a . ${colore}ish dog named . $dog_name . and her favorite food is . $favorite_food .";
 
 
 ?>
