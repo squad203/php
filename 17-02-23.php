@@ -1,4 +1,4 @@
 <?php
-$my_name = "krsidhf;kasudhg;'askaudgff;koadrish";
+$my_name = "help me";
 echo $my_name;
 ?>  
