@@ -16,8 +16,9 @@
 
     // echo $setence;
 
-    
+    $setencr = "name of softwer";
+    $setence = ",canvas";
 
-
+    echo $setencr,$setence;  
 
 ?>
