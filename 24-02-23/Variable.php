@@ -9,4 +9,13 @@
     $full_name .= "Nevertell";
     echo $full_name;
 
+
+    $setence = "I am Going To rishikesh";
+
+    $setence .= ", but I am from gujrat";
+
+    echo $setence;
+
+
+
 ?>
