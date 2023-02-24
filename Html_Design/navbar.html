@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Side divbar</title>
+    <script>
+        function showDropdown(a) {
+            document.getElementById("A_Dropdown").style.display = "block"
+        }
+        function offDropDown(a) {
+            document.getElementById("A_Dropdown").style.display = "none"
+        }
+    </script>
+</head>
+<style>
+    body {
+        width: 65%;
+        margin: auto;
+    }
+
+    #navbar {
+        background-color: rgb(138, 188, 196);
+        border-radius: 8px;
+    }
+
+    #navbar ul li a {
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+    }
+
+    #navbar ul li {
+        padding: 10px 15px;
+        transition: .3s all;
+        list-style: none;
+    }
+
+    #navbar ul {
+        display: flex;
+    }
+
+    #navbar ul li:hover {
+        background-color: rgba(255, 255, 255, 0.386);
+        color: black;
+        /* transform: scale(1.1); */
+        box-shadow: 2px 2px rgba(77, 77, 77, 0.2);
+        border-radius: 10px;
+    }
+
+    #navbar ul li:hover a {
+        color: black;
+    }
+
+    .dropDown {
+        background-color: rgb(234, 233, 233);
+        padding: 10px 20px;
+        display: none;
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+    }
+    .dropDown a:hover{
+        background-color: rgba(0, 0, 0, 0.265);
+    }
+
+    .dropDown:hover {
+        display: block;
+    }
+
+    #A_Block:hover .dropDown {
+        display: block !important;
+    }
+    .ablock:hover #A_Dropdown{
+        display: block;
+    }
+    .card{
+        background-color: antiquewhite;
+        display: none;
+        margin-left: -100px;
+        position: absolute;
+        display: flex;
+    }
+</style>
+
+<body>
+    <div id="navbar">
+        <ul id="divbarUl">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li onmouseover="showDropdown('a')" onmouseleave="offDropDown('a')">
+                <a class="ablock" href="#">A_Block</a>
+                <div class="dropDown" id="A_Dropdown">
+                    <a>Bill</a>
+                    <a>Items</a>
+                </div>
+            </li>
+            <li><a href="#">B_Block</a></li>
+            <li><a href="#">C_Block</a></li>
+            <li><a href="#">D_Block</a></li>
+        </ul>
+    </div>
+    <div class="card">
+        
+    </div>
+</body>
+
+</html>
