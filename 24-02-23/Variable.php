@@ -16,10 +16,17 @@
 
     // echo $setence;
 
-    $setencr = "name of softwer";
-    $setence = ",canvas";
+    // $setencr = "name of softwer";
+    // $setence = ",canvas";
 
-    echo $setencr,$setence;  
+    // echo $setencr,$setence;  
     
+    $first_palyer_rank = "Beginner";
+    $second_palter_rank = $first_palyer_rank;
+    echo $second_palter_rank;
+
+    $first_player_rank = "Intermediate";
+    echo $second_palter_rank    ;
+
     ?>
      
