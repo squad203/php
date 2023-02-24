@@ -10,9 +10,9 @@
     echo $full_name;
 
 
-    $setence = "I am Going To rishikesh";
+    $setence = "I am Going To dubai";
 
-    $setence .= ", but I am from gujrat";
+    $setence .= ", but I am from pakistan";
 
     echo $setence;
 
