@@ -9,7 +9,7 @@
     // $full_name .= "Nevertell";
     // echo $full_name;
 
-    
+
 
 
     // $setence = "I am Going To dubai";
@@ -23,18 +23,15 @@
     
     
 
-    
-    $first_palyer_rank = "Beginner";
-    $second_palter_rank =& $first_palyer_rank;
-    echo $second_palter_rank;
+    // $first_palyer_rank = "Beginner";
+    // $second_palter_rank =& $first_palyer_rank;
+    // echo $second_palter_rank;
 
-    $first_palyer_rank  = "Intermediate";
-    echo $second_palter_rank ;
-
+    // $first_palyer_rank  = " Intermediate";
+    // echo $second_palter_rank  ;
 
 
+    $vary_bad_unclear_name = "chiicken wings";
+    echo "\nYour order is: $vary_bad_unclear_name.";
 
-
-
-    ?>
-     
+?>
