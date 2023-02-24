@@ -31,8 +31,11 @@
     // echo $second_palter_rank  ;
 
 
-    $vary_bad_unclear_name = "chiicken wings";
-    echo "\nYour order is: $vary_bad_unclear_name.";
+    // $vary_bad_unclear_name = "chiicken wings";
+    // echo "\nYour order is: $vary_bad_unclear_name.";
 
-    
+    $very_bad_unclear_name = "15 chicken wings";
+    $order = &$very_bad_unclear_name;
+    $order .= "Test";
+    echo $order;
 ?>
