@@ -5,16 +5,18 @@
     // $full_name = $full_name . "Your Mother";
     // echo $full_name;
 
-    $full_name = "Aisle";
-    $full_name .= "Nevertell";
-    echo $full_name;
+    // $full_name = "Aisle";
+    // $full_name .= "Nevertell";
+    // echo $full_name;
 
 
-    $setence = "I am Going To dubai";
+    // $setence = "I am Going To dubai";
 
-    $setence .= ", but I am from pakistan";
+    // $setence .= ", but I am from pakistan";
 
-    echo $setence;
+    // echo $setence;
+
+    
 
 
 
