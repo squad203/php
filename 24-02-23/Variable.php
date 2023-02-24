@@ -5,6 +5,8 @@
     // $full_name = $full_name . "Your Mother";
     // echo $full_name;
 
-$fu
+    $full_name = "Aisle";
+    $full_name .= "Nevertell";
+    echo $full_name;
 
 ?>
