@@ -38,4 +38,4 @@
     $my_float = -897.21;
 
     echo $my_float,$my_int;
-    ?>  
+    echo "<br>";
