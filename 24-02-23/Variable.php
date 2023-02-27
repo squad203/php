@@ -38,4 +38,7 @@
     $order = &$very_bad_unclear_name;
     $order .= "Test";
     echo $order;
-?>
+
+    $favorite_lag = "Gujrati";
+    $message = "$favorite_lag";
+    ?>
