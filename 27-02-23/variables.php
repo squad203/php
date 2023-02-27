@@ -14,5 +14,9 @@
     $favorite_food = "treat";
     $color = "brown";
 
-    echo "I have a ${color}ish dog named dog named $dog_name and her favorite food is ${$favorite_food}";
+    echo "I have a ${color}ish dog named dog named $dog_name and her favorite food is ${favorite_food}";
+
+    $full_name = "Swaminarayan";
+    $full_name .= " Maharaj";
+    
 ?>
