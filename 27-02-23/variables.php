@@ -1,13 +1,18 @@
 <?php
     echo "<center>";
     
-    echo "<br>This is a best php file<br>";
-    echo "<br>This is php  leactur in millenium hall<br>";
-    $favorite_food = "Hello";
-    echo "<br>$favorite_food<br>";
+    // echo "<br>This is a best php file<br>";
+    // echo "<br>This is php  leactur in millenium hall<br>";
+    // $favorite_food = "Hello";
+    // echo "<br>$favorite_food<br>";
     
-    $toy = "ramkadu";
-    echo "Smit is playing with $toy";
-    echo  "</center>";
+    // $toy = "ramkadu";
+    // echo "moto is playing with $toys";
+    // echo  "</center>";
 
+    $dog_name = "tadpole";
+    $favorite_food = "treat";
+    $color = "brown";
+
+    echo "I have a ${color}ish dog named dog named $dog_name and her favorite food is ${$favorite_food}";
 ?>
