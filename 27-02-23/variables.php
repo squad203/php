@@ -34,8 +34,11 @@
     // echo $second_palter_rank  ;
     
 
-    $my_int = 78;
-    $my_float = -897.21;
+    // $my_int = 78;
+    // $my_float = -897.21;
 
-    echo $my_float,$my_int;
-    echo "<br>";
+    // echo $my_float,$my_int;
+
+    
+    
+    ?>  
