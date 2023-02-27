@@ -22,7 +22,14 @@
 
     // echo $second_palyer_rank;
 
-    $full_name = "aisle";
-    $full_name = "nevertell";
-    echo $full_name;
+    // $full_name = "aisle";
+    // $full_name = "nevertell";
+    // echo $full_name;
+    
+     $first_palyer_rank = "Beginner";
+    $second_palter_rank =& $first_palyer_rank;
+    echo $second_palter_rank;
+
+    $first_palyer_rank  = " Intermediate";
+    echo $second_palter_rank  ;
 ?>
