@@ -16,5 +16,8 @@
     $age_difference = $tadpole_age - $lily_age;
     echo $age_difference;
 
+    $favorite_num = 22;
+    echo $favorite_num +1;
+    echo $favorite_num;
 
 ?>
