@@ -10,5 +10,10 @@
     echo "<br>";
 
 
+    $tadpole_age = 7;
+    $lily_age = 6;
+    $age_difference = $tadpole_age - $lily_age;
+    echo $age_difference;
+
 
 ?>
