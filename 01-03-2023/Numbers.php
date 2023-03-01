@@ -19,6 +19,7 @@
     echo "<br>";
     $favorite_num = 22;
     echo $favorite_num +1;
+    echo "<br>";
     echo $favorite_num;
 
 ?>
