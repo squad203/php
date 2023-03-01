@@ -39,10 +39,6 @@
     $left_cookies = $num_cookie % $cookie_per_serving;
     echo "<br>". $left_cookies
 
-    Khushi : Hello, Smit you are so cleaver,why should you not try in google
 
-    Smit : Oh,I am cleaver but not then you. You are a bua With brain
-
-    Khushi : Thum Bhi na , Hamesha mera majak udate ho
 
 ?>
