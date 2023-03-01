@@ -9,13 +9,14 @@
     echo -22.8 - 19.1;
     echo "<br>";
     echo "<br>";
-
-
+    
+    
     $tadpole_age = 7;
     $lily_age = 6;
     $age_difference = $tadpole_age - $lily_age;
     echo $age_difference;
-
+    
+    echo "<br>";
     $favorite_num = 22;
     echo $favorite_num +1;
     echo $favorite_num;
