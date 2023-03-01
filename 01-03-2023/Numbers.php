@@ -11,14 +11,20 @@
     echo "<br>";
     
     
-    $tadpole_age = 7;
-    $lily_age = 6;
-    $age_difference = $tadpole_age - $lily_age;
-    echo $age_difference;
+    $tadpole_age = 7 ;
+    $lily_age = 6 ;
+    $age_difference = $tadpole_age - $lily_age ;
+    echo $age_difference ;
     
-    echo "<br>";
-    $favorite_num = 22;
-    echo $favorite_num +1;
+    echo "<br>" ;
+    $favorite_num = 22 ;
+    echo $favorite_num +1 ;
     echo $favorite_num;
+    
+    $num = 4 ;
+    $months = 11 ;
 
+    $days = 16 * $months;
+    echo $days;
+    $days_per_language  = $days
 ?>
