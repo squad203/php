@@ -16,29 +16,33 @@
     // $age_difference = $tadpole_age - $lily_age ;
     // echo $age_difference ;
     
-    // echo "<br>";
-    // $favorite_num = 22;
-    // echo $favorite_num +1;
-    // echo "<br>";
-    // echo $favorite_num;
+    echo "<br>";
+    $favorite_num = 22;
+    echo $favorite_num +1;
+    echo "<br>";
+    echo $favorite_num;
+
+    echo 7 & 3;
     
     // $num = 4 ;
     // $months = 11 ;
 
-    // $days = 16 * $months;
-    // echo $days;
-    // $days_per_language  = $days /$num;
-    // echo"<br>".$days_per_language;    
+    $days = 16 * $months;
+    echo $days;
+    $days_per_language  = $days / $num;
+    echo "<br>".$days_per_language ;
     
-    // echo  3 ** 2;
+    echo 4 ** 2;
 
-    $num_cookies = 27;
-    $cookies_per_serving = 4;
-    $leftover_cookies = $num_cookies % $cookies_per_serving;
-    echo $leftover_cookies;
+    $num_cookie = 27;
+    $cookie_per_serving = 4;
+    $left_cookies = $num_cookie % $cookie_per_serving;
+    echo "<br>". $left_cookies
 
+    Khushi : Hello, Smit you are so cleaver,why should you not try in google
 
+    Smit : Oh,I am cleaver but not then you. You are a bua With brain
 
-    
-    
-    ?>
+    Khushi : Thum Bhi na , Hamesha mera majak udate ho
+
+?>
