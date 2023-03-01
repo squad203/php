@@ -32,7 +32,14 @@
     // $days_per_language  = $days / $num;
     // echo "<br>".$days_per_language ;
     
-    // echo 4 ** 2;
+    echo 4 ** 2;
+
+    $num_cookie = 27;
+    $cookie_per_serving = 4;
+    $left_cookies = $num_cookie % $cookie_per_serving;
+    echo "<br>". $left_cookies;
+
+    echo "<br> Left Stundents : ". 82%6;
 
     // $num_cookie = 27;
     // $cookie_per_serving = 4;
@@ -40,5 +47,11 @@
     // echo "<br>". $left_cookies;
 
     echo 2 *9 / 6;
+
+    // Khushi : Hello, Smit you are so cleaver,why should you not try in google
+
+    // Smit : Oh,I am cleaver but not then you. You are a bua With brain
+
+    // Khushi : Thum Bhi na , Hamesha mera majak udate ho
 
 ?>
