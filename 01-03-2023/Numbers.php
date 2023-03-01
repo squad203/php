@@ -32,21 +32,21 @@
     // $days_per_language  = $days / $num;
     // echo "<br>".$days_per_language ;
     
-    echo 4 ** 2;
-
-    $num_cookie = 27;
-    $cookie_per_serving = 4;
-    $left_cookies = $num_cookie % $cookie_per_serving;
-    echo "<br>". $left_cookies;
-
-    echo "<br> Left Stundents : ". 82%6;
+    // echo 4 ** 2;
 
     // $num_cookie = 27;
     // $cookie_per_serving = 4;
     // $left_cookies = $num_cookie % $cookie_per_serving;
     // echo "<br>". $left_cookies;
 
-    echo 2 *9 / 6;
+    // echo "<br> Left Stundents : ". 82%6;
+
+    // $num_cookie = 27;
+    // $cookie_per_serving = 4;
+    // $left_cookies = $num_cookie % $cookie_per_serving;
+    // echo "<br>". $left_cookies;
+
+    // echo 2 *9 / 6;
 
 
     echo "<br>". ((94-4.25)+7)-(23.50 + ((23.50*20)/100)+20);
