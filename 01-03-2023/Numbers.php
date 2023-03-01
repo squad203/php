@@ -49,4 +49,16 @@
     echo 2 *9 / 6;
 
 
+    echo "<br>". ((94-4.25)+7)-(23.50 + ((23.50*20)/100)+20);
+
+    $my_num =321;
+    $answer = $my_num ;
+    $answer += 2;
+    $answer *= 2;
+    $answer -= 2;
+    $answer /= 2;
+
+    echo "<br>".$answer;
+
+    
 ?>
