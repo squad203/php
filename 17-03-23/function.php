@@ -1,7 +1,19 @@
 <?php
-function sayCustomHello($name)
+// function sayCustomHello($name)
+// {
+//     echo "hello,$name!";
+// }
+// sayCustomHello("Aisle Nevertell");
+// sayCustomHello("Codecadmy learner");
+// function abc($str){
+//     echo $str."!";
+// }h
+
+function acd($name)
 {
-    echo "hello,$name!";
+    echo $name."#";
+    echo $name."#";
+    echo $name."#";
 }
 function abc($str){
     echo $str."!";
