@@ -7,7 +7,7 @@
 // sayCustomHello("Codecadmy learner");
 // function abc($str){
 //     echo $str."!";
-// }
+// }h
 
 function acd($name)
 {
@@ -15,4 +15,4 @@ function acd($name)
     echo $name."#";
     echo $name."#";
 }
-   acd("help")
+   acd("help");
